@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '.', // Replace with your actual repository name
+  base: '/GameFinder/', // This should match your repository name exactly
   server: {
     port: 3000,
     open: true
@@ -14,5 +14,4 @@ export default defineConfig({
     sourcemap: false
   }
 }) 
-
 
