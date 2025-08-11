@@ -1,0 +1,1286 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Arsenal",
+          "stadium": "Emirates Stadium",
+          "address": "Hornsey Road, London N7 7AJ",
+          "capacity": 60704
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.10611, 51.55667] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Aston Villa",
+          "stadium": "Villa Park",
+          "address": "Trinity Road, Birmingham B6 6HE",
+          "capacity": 42918
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.88472, 52.50917] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Bournemouth",
+          "stadium": "Vitality Stadium (Dean Court)",
+          "address": "Kings Park, Bournemouth BH7 7AF",
+          "capacity": 11307
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.8378, 50.7350] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Brentford",
+          "stadium": "Gtech Community Stadium",
+          "address": "166 Lionel Road South, Brentford, London TW8 0RU",
+          "capacity": 17250
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.28861, 51.49083] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Brighton & Hove Albion",
+          "stadium": "American Express Community Stadium (Falmer Stadium)",
+          "address": "Village Way, Falmer, Brighton BN1 9BL",
+          "capacity": 31876
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.08333, 50.86194] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Burnley",
+          "stadium": "Turf Moor",
+          "address": "52–56 Harry Potts Way, Burnley BB10 4BX",
+          "capacity": 21944
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.23028, 53.78917] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Chelsea",
+          "stadium": "Stamford Bridge",
+          "address": "Fulham Road, London SW6 1HS",
+          "capacity": 40173
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.19111, 51.48167] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Crystal Palace",
+          "stadium": "Selhurst Park",
+          "address": "Whitehorse Lane, London SE25 6PU",
+          "capacity": 25194
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.08556, 51.39833] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Everton",
+          "stadium": "Everton Stadium (Bramley-Moore Dock)",
+          "address": "Regent Road, Bramley-Moore Dock, Liverpool L3 0AP",
+          "capacity": 52769
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.00280, 53.42510] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Fulham",
+          "stadium": "Craven Cottage",
+          "address": "Stevenage Road, London SW6 6HH",
+          "capacity": 29589
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.22167, 51.47500] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Leeds United",
+          "stadium": "Elland Road",
+          "address": "Elland Road, Beeston, Leeds LS11 0ES",
+          "capacity": 37645
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.57222, 53.77778] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Liverpool",
+          "stadium": "Anfield",
+          "address": "Anfield Road, Liverpool L4 0TH",
+          "capacity": 61276
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.96083, 53.43083] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Manchester City",
+          "stadium": "Etihad Stadium",
+          "address": "Ashton New Road, Etihad Campus, Manchester M11 3FF",
+          "capacity": 52900
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.20028, 53.48306] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Manchester United",
+          "stadium": "Old Trafford",
+          "address": "Sir Matt Busby Way, Old Trafford, Manchester M16 0RA",
+          "capacity": 74197
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.29134, 53.46306] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Newcastle United",
+          "stadium": "St James’ Park",
+          "address": "Barrack Road, Newcastle upon Tyne NE1 4ST",
+          "capacity": 52258
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.62234, 54.97522] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Nottingham Forest",
+          "stadium": "The City Ground",
+          "address": "Pavilion Road, West Bridgford, Nottingham NG2 5FJ",
+          "capacity": 30404
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.13278, 52.94000] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Sunderland",
+          "stadium": "Stadium of Light",
+          "address": "Millennium Way, Monkwearmouth, Sunderland SR5 1SU",
+          "capacity": 49000
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.38817, 54.91443] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Tottenham Hotspur",
+          "stadium": "Tottenham Hotspur Stadium",
+          "address": "782 High Road, Tottenham, London N17 0BX",
+          "capacity": 62850
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.06639, 51.60444] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "West Ham United",
+          "stadium": "London Stadium",
+          "address": "Queen Elizabeth Olympic Park, London E20 2ST",
+          "capacity": 62500
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.0165, 51.5386] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "Premier League",
+          "team": "Wolverhampton Wanderers",
+          "stadium": "Molineux Stadium",
+          "address": "Waterloo Road, Wolverhampton WV1 4QR",
+          "capacity": 31750
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.1300, 52.5900] }
+      },
+  
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Birmingham City",
+          "stadium": "St. Andrew’s",
+          "address": "Cattell Road, Birmingham B9 4RL",
+          "capacity": 29409
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.8689, 52.4752] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Blackburn Rovers",
+          "stadium": "Ewood Park",
+          "address": "Nuttall Street, Blackburn BB2 4JF",
+          "capacity": 31367
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.4895, 53.7286] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Bristol City",
+          "stadium": "Ashton Gate",
+          "address": "Ashton Road, Bristol BS3 2EJ",
+          "capacity": 26462
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.6203, 51.4472] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Charlton Athletic",
+          "stadium": "The Valley",
+          "address": "Floyd Road, Charlton, London SE7 8BL",
+          "capacity": 27111
+        },
+        "geometry": { "type": "Point", "coordinates": [0.0369, 51.4865] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Coventry City",
+          "stadium": "Coventry Building Society Arena",
+          "address": "Judds Lane, Coventry CV6 6GE",
+          "capacity": 32609
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.4957, 52.4472] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Derby County",
+          "stadium": "Pride Park Stadium",
+          "address": "Pride Parkway, Derby DE24 8XL",
+          "capacity": 32926
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.4404, 52.9147] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Hull City",
+          "stadium": "MKM Stadium (KCOM Stadium)",
+          "address": "Walton Street, Hull HU3 6HU",
+          "capacity": 25586
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.3822, 53.7451] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Ipswich Town",
+          "stadium": "Portman Road",
+          "address": "Portman Road, Ipswich IP1 2DA",
+          "capacity": 30056
+        },
+        "geometry": { "type": "Point", "coordinates": [1.1445, 52.0559] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Leicester City",
+          "stadium": "King Power Stadium",
+          "address": "Filbert Way, Leicester LE2 7FL",
+          "capacity": 32259
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.1398, 52.6203] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Middlesbrough",
+          "stadium": "Riverside Stadium",
+          "address": "The Leeway, Middlesbrough TS3 6RS",
+          "capacity": 34742
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.2165, 54.5781] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Millwall",
+          "stadium": "The Den",
+          "address": "Zampa Road, Bermondsey, London SE16 3LN",
+          "capacity": 20146
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.0471, 51.4854] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Norwich City",
+          "stadium": "Carrow Road",
+          "address": "Carrow Road, Norwich NR1 1JE",
+          "capacity": 27359
+        },
+        "geometry": { "type": "Point", "coordinates": [1.3095, 52.6220] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Oxford United",
+          "stadium": "Kassam Stadium",
+          "address": "Grenoble Road, Oxford OX4 4XP",
+          "capacity": 12500
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.2079, 51.7162] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Portsmouth",
+          "stadium": "Fratton Park",
+          "address": "Frogmore Road, Portsmouth PO4 8RA",
+          "capacity": 20899
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.0639, 50.7962] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Preston North End",
+          "stadium": "Deepdale",
+          "address": "Sir Tom Finney Way, Preston PR1 6RU",
+          "capacity": 23408
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.6900, 53.7760] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Queens Park Rangers",
+          "stadium": "Loftus Road",
+          "address": "South Africa Road, Shepherd’s Bush, London W12 7PA",
+          "capacity": 18439
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.2320, 51.5099] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Sheffield United",
+          "stadium": "Bramall Lane",
+          "address": "Bramall Lane, Highfield, Sheffield S2 4SU",
+          "capacity": 32050
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.4701, 53.3703] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Sheffield Wednesday",
+          "stadium": "Hillsborough Stadium",
+          "address": "Penistone Road, Hillsborough, Sheffield S6 1SW",
+          "capacity": 39732
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.5003, 53.4114] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Southampton",
+          "stadium": "St Mary’s Stadium",
+          "address": "Britannia Road, Southampton SO14 5FP",
+          "capacity": 32384
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.3909, 50.9058] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Stoke City",
+          "stadium": "bet365 Stadium",
+          "address": "Stanley Matthews Way, Stoke-on-Trent ST4 4EG",
+          "capacity": 30089
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.1756, 52.9883] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Swansea City",
+          "stadium": "Swansea.com Stadium (Liberty Stadium)",
+          "address": "Plasmarl, Swansea SA1 2FA",
+          "capacity": 21088
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.9350, 51.6422] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Watford",
+          "stadium": "Vicarage Road",
+          "address": "Vicarage Road, Watford WD18 0ER",
+          "capacity": 22200
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.4017, 51.6499] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "West Bromwich Albion",
+          "stadium": "The Hawthorns",
+          "address": "Halfords Lane, West Bromwich B71 4LF",
+          "capacity": 26850
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.9635, 52.5090] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL Championship",
+          "team": "Wrexham",
+          "stadium": "Racecourse Ground",
+          "address": "Mold Road, Wrexham LL11 2AH",
+          "capacity": 10771
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.00361, 53.05194] }
+      },
+  
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "AFC Wimbledon",
+          "stadium": "Plough Lane",
+          "address": "Plough Lane, Wimbledon, London SW17 0BL",
+          "capacity": 9215
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.1854, 51.4333] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Barnsley",
+          "stadium": "Oakwell",
+          "address": "Grove Street, Barnsley S71 1ET",
+          "capacity": 23287
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.4674, 53.5529] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Blackpool",
+          "stadium": "Bloomfield Road",
+          "address": "Seasiders Way, Blackpool FY1 6JJ",
+          "capacity": 16500
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.0481, 53.8047] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Bolton Wanderers",
+          "stadium": "Toughsheet Community Stadium",
+          "address": "Burnden Way, Horwich, Bolton BL6 6JW",
+          "capacity": 28723
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.5408, 53.5803] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Bradford City",
+          "stadium": "Valley Parade",
+          "address": "Valley Parade, Bradford BD8 7DY",
+          "capacity": 24840
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.7592, 53.8040] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Burton Albion",
+          "stadium": "Pirelli Stadium",
+          "address": "Princess Way, Burton upon Trent DE13 0AR",
+          "capacity": 6912
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.6281, 52.8156] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Cardiff City",
+          "stadium": "Cardiff City Stadium",
+          "address": "Leckwith Road, Cardiff CF11 8AZ",
+          "capacity": 33280
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.2030, 51.4729] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Doncaster Rovers",
+          "stadium": "Eco-Power Stadium",
+          "address": "Stadium Way, Doncaster DN4 5JW",
+          "capacity": 15231
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.1131, 53.5092] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Exeter City",
+          "stadium": "St James Park",
+          "address": "Stadium Way, Exeter EX4 6PX",
+          "capacity": 8720
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.5212, 50.7303] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Huddersfield Town",
+          "stadium": "John Smith’s Stadium (Kirklees Stadium)",
+          "address": "Stadium Way, Huddersfield HD1 6PG",
+          "capacity": 24121
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.7680, 53.6543] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Leyton Orient",
+          "stadium": "Brisbane Road",
+          "address": "Brisbane Road, Leyton, London E10 5NF",
+          "capacity": 9271
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.0125, 51.5582] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Lincoln City",
+          "stadium": "LNER Stadium (Sincil Bank)",
+          "address": "Sincil Bank, Lincoln LN5 8LD",
+          "capacity": 10669
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.5383, 53.2186] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Luton Town",
+          "stadium": "Kenilworth Road",
+          "address": "1 Maple Road, Luton LU4 8AW",
+          "capacity": 12056
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.4445, 51.8842] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Mansfield Town",
+          "stadium": "Field Mill (One Call Stadium)",
+          "address": "Quarry Lane, Mansfield NG18 5DA",
+          "capacity": 9186
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.2003, 53.1382] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Northampton Town",
+          "stadium": "Sixfields Stadium",
+          "address": "Walter Tull Way, Northampton NN5 5QA",
+          "capacity": 8200
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.9530, 52.2374] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Peterborough United",
+          "stadium": "London Road Stadium (Weston Homes Stadium)",
+          "address": "London Road, Peterborough PE2 8AL",
+          "capacity": 15314
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.2431, 52.5654] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Plymouth Argyle",
+          "stadium": "Home Park",
+          "address": "Outland Road, Plymouth PL2 3DQ",
+          "capacity": 17900
+        },
+        "geometry": { "type": "Point", "coordinates": [-4.1500, 50.3964] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Port Vale",
+          "stadium": "Vale Park",
+          "address": "Hamil Road, Burslem, Stoke-on-Trent ST6 1AW",
+          "capacity": 15036
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.1931, 53.0504] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Reading",
+          "stadium": "Madejski Stadium (Select Car Leasing Stadium)",
+          "address": "Shooter’s Way, Reading RG2 0FL",
+          "capacity": 24161
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.9831, 51.4222] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Rotherham United",
+          "stadium": "New York Stadium",
+          "address": "New York Way, Rotherham S60 1AH",
+          "capacity": 12021
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.3686, 53.4278] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Stevenage",
+          "stadium": "Lamex Stadium (Broadhall Way)",
+          "address": "Broadhall Way, Stevenage SG2 8RH",
+          "capacity": 7800
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.1790, 51.8894] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Stockport County",
+          "stadium": "Edgeley Park",
+          "address": "Hardcastle Road, Stockport SK3 9DD",
+          "capacity": 10852
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.1631, 53.4063] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Wigan Athletic",
+          "stadium": "DW Stadium (Brick Community Stadium)",
+          "address": "Loire Drive, Robin Park, Wigan WN5 0UH",
+          "capacity": 25138
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.65389, 53.54778] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League One",
+          "team": "Wycombe Wanderers",
+          "stadium": "Adams Park",
+          "address": "Hillbottom Road, High Wycombe HP12 4HJ",
+          "capacity": 10137
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.7950, 51.6302] }
+      },
+  
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Accrington Stanley",
+          "stadium": "Wham Stadium (Crown Ground)",
+          "address": "Livingstone Road, Accrington BB5 5BX",
+          "capacity": 5450
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.3814, 53.7644] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Barnet",
+          "stadium": "The Hive Stadium",
+          "address": "Camrose Avenue, Canons Park, London HA8 6AG",
+          "capacity": 6418
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.2800, 51.6000] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Barrow",
+          "stadium": "Holker Street",
+          "address": "Wilkie Road, Barrow-in-Furness LA14 5UW",
+          "capacity": 6500
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.2146, 54.1167] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Bristol Rovers",
+          "stadium": "Memorial Stadium",
+          "address": "Filton Avenue, Horfield, Bristol BS7 0BF",
+          "capacity": 9832
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.5833, 51.4861] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Bromley",
+          "stadium": "Hayes Lane",
+          "address": "Hayes Lane, Bromley, London BR2 9EF",
+          "capacity": 5300
+        },
+        "geometry": { "type": "Point", "coordinates": [0.0215, 51.3903] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Cambridge United",
+          "stadium": "Abbey Stadium",
+          "address": "Newmarket Road, Cambridge CB5 8LN",
+          "capacity": 8127
+        },
+        "geometry": { "type": "Point", "coordinates": [0.1704, 52.2126] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Cheltenham Town",
+          "stadium": "Jonny-Rocks Stadium (Whaddon Road)",
+          "address": "Whaddon Road, Cheltenham GL52 5NA",
+          "capacity": 7066
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.0608, 51.9101] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Chesterfield",
+          "stadium": "SMH Group Stadium (Proact Stadium)",
+          "address": "1866 Sheffield Road, Chesterfield S41 8NZ",
+          "capacity": 10504
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.4292, 53.2553] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Colchester United",
+          "stadium": "Colchester Community Stadium",
+          "address": "United Way, Colchester CO4 5UP",
+          "capacity": 10105
+        },
+        "geometry": { "type": "Point", "coordinates": [0.9047, 51.9230] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Crawley Town",
+          "stadium": "Broadfield Stadium",
+          "address": "Winfield Way, Crawley RH11 9RX",
+          "capacity": 5996
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.2030, 51.0996] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Crewe Alexandra",
+          "stadium": "Mornflake Stadium (Gresty Road)",
+          "address": "Gresty Road, Crewe CW2 6EB",
+          "capacity": 10153
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.4394, 53.0875] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Fleetwood Town",
+          "stadium": "Highbury Stadium",
+          "address": "Park Avenue, Fleetwood FY7 6TX",
+          "capacity": 5327
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.0245, 53.9223] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Gillingham",
+          "stadium": "Priestfield Stadium",
+          "address": "Redfern Avenue, Gillingham ME7 4DD",
+          "capacity": 11582
+        },
+        "geometry": { "type": "Point", "coordinates": [0.5584, 51.3860] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Grimsby Town",
+          "stadium": "Blundell Park",
+          "address": "Cleethorpes, North East Lincolnshire DN35 7PY",
+          "capacity": 9052
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.0401, 53.5637] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Harrogate Town",
+          "stadium": "EnviroVent Stadium (Wetherby Road)",
+          "address": "Wetherby Road, Harrogate HG2 7SA",
+          "capacity": 5000
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.5200, 53.9930] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Milton Keynes Dons",
+          "stadium": "Stadium MK",
+          "address": "Stadium Way, Denbigh, Milton Keynes MK1 1ST",
+          "capacity": 30500
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.7333, 52.0090] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Newport County",
+          "stadium": "Rodney Parade",
+          "address": "Rodney Road, Newport NP19 0UU",
+          "capacity": 7850
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.9867, 51.5883] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Notts County",
+          "stadium": "Meadow Lane",
+          "address": "Meadow Lane, Nottingham NG2 3HJ",
+          "capacity": 19841
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.1375, 52.9425] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Oldham Athletic",
+          "stadium": "Boundary Park",
+          "address": "Furtherwood Road, Oldham OL1 2PA",
+          "capacity": 13513
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.1281, 53.5553] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Salford City",
+          "stadium": "Moor Lane (Peninsula Stadium)",
+          "address": "Moor Lane, Salford M7 3PZ",
+          "capacity": 5108
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.2674, 53.5186] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Shrewsbury Town",
+          "stadium": "Montgomery Waters Meadow (New Meadow)",
+          "address": "Oteley Road, Shrewsbury SY2 6ST",
+          "capacity": 9875
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.7419, 52.6880] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Swindon Town",
+          "stadium": "County Ground",
+          "address": "County Road, Swindon SN1 2ED",
+          "capacity": 15728
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.7720, 51.5686] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Tranmere Rovers",
+          "stadium": "Prenton Park",
+          "address": "Prenton Road West, Birkenhead CH42 9PY",
+          "capacity": 16789
+        },
+        "geometry": { "type": "Point", "coordinates": [-3.0242, 53.3701] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "EFL League Two",
+          "team": "Walsall",
+          "stadium": "Bescot Stadium",
+          "address": "Bescot Crescent, Walsall WS1 4SA",
+          "capacity": 11300
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.9913, 52.5652] }
+      },
+  
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Aldershot Town",
+          "stadium": "Recreation Ground (EBB Stadium)",
+          "address": "High Street, Aldershot GU11 1TW",
+          "capacity": 7100
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.7665, 51.2483] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Altrincham",
+          "stadium": "Moss Lane (J. Davidson Stadium)",
+          "address": "Moss Lane, Altrincham WA15 8AP",
+          "capacity": 7700
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.3491, 53.3875] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Boreham Wood",
+          "stadium": "Meadow Park",
+          "address": "Broughinge Road, Borehamwood WD6 5AL",
+          "capacity": 4502
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.2722, 51.6619] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Boston United",
+          "stadium": "Jakemans Community Stadium",
+          "address": "Pilgrim Way, Wyberton, Boston PE21 7NE",
+          "capacity": 5061
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.0297, 52.9556] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Brackley Town",
+          "stadium": "St. James Park",
+          "address": "Churchill Way, Brackley NN13 7EJ",
+          "capacity": 3500
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.1483, 52.0253] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Braintree Town",
+          "stadium": "Cressing Road (IronmongeryDirect Stadium)",
+          "address": "Clockhouse Way, Braintree CM7 3RD",
+          "capacity": 4222
+        },
+        "geometry": { "type": "Point", "coordinates": [0.5540, 51.8751] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Carlisle United",
+          "stadium": "Brunton Park",
+          "address": "Warwick Road, Carlisle CA1 1LL",
+          "capacity": 17949
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.9133, 54.8900] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Eastleigh",
+          "stadium": "Silverlake Stadium (Ten Acres)",
+          "address": "Stoneham Lane, Eastleigh SO50 9HT",
+          "capacity": 5250
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.3606, 50.9508] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "FC Halifax Town",
+          "stadium": "The Shay",
+          "address": "Shay Syke, Halifax HX1 2YT",
+          "capacity": 10400
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.8612, 53.7163] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Forest Green Rovers",
+          "stadium": "The New Lawn (Fully Charged New Lawn)",
+          "address": "Another Way, Nailsworth GL6 0FG",
+          "capacity": 5147
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.2344, 51.6947] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Gateshead",
+          "stadium": "Gateshead International Stadium",
+          "address": "Neilson Road, Gateshead NE10 0EF",
+          "capacity": 11800
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.5781, 54.9627] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Hartlepool United",
+          "stadium": "Victoria Park",
+          "address": "Clarence Road, Hartlepool TS24 8BZ",
+          "capacity": 7856
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.2086, 54.6992] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Morecambe",
+          "stadium": "Mazuma Mobile Stadium (Globe Arena)",
+          "address": "Westgate, Morecambe LA4 4TB",
+          "capacity": 6476
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.8586, 54.0633] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Rochdale",
+          "stadium": "Crown Oil Arena (Spotland Stadium)",
+          "address": "Willbutts Lane, Rochdale OL11 5DR",
+          "capacity": 10249
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.1811, 53.6230] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Scunthorpe United",
+          "stadium": "Glanford Park",
+          "address": "Jack Brownsword Way, Scunthorpe DN15 8TD",
+          "capacity": 9088
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.6542, 53.5875] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Solihull Moors",
+          "stadium": "ARMCO Arena (Damson Park)",
+          "address": "Damson Parkway, Solihull B92 9EJ",
+          "capacity": 5500
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.7625, 52.4354] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Southend United",
+          "stadium": "Roots Hall",
+          "address": "Victoria Avenue, Southend-on-Sea SS2 6NQ",
+          "capacity": 12392
+        },
+        "geometry": { "type": "Point", "coordinates": [0.7030, 51.5490] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Sutton United",
+          "stadium": "Gander Green Lane (VBS Community Stadium)",
+          "address": "Gander Green Lane, Sutton SM1 2EY",
+          "capacity": 5013
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.2030, 51.3707] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Tamworth",
+          "stadium": "The Lamb Ground",
+          "address": "Kettlebrook, Tamworth B77 1AA",
+          "capacity": 4565
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.6870, 52.6211] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Truro City",
+          "stadium": "Truro City Stadium (Truro Sports Hub)",
+          "address": "Threemilestone, Truro TR4 9AN",
+          "capacity": 3000
+        },
+        "geometry": { "type": "Point", "coordinates": [-5.1265, 50.2640] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Wealdstone",
+          "stadium": "Grosvenor Vale",
+          "address": "Grosvenor Vale, Ruislip HA4 6JQ",
+          "capacity": 4085
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.4174, 51.5725] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Woking",
+          "stadium": "Kingfield Stadium",
+          "address": "Kingfield Road, Woking GU22 9AA",
+          "capacity": 6036
+        },
+        "geometry": { "type": "Point", "coordinates": [-0.5575, 51.3042] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "Yeovil Town",
+          "stadium": "Huish Park",
+          "address": "Lufton Way, Yeovil BA22 8YF",
+          "capacity": 9566
+        },
+        "geometry": { "type": "Point", "coordinates": [-2.6733, 50.9500] }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "league": "National League",
+          "team": "York City",
+          "stadium": "LNER Community Stadium (York Community Stadium)",
+          "address": "Kathryn Avenue, Huntington, York YO32 9AF",
+          "capacity": 8500
+        },
+        "geometry": { "type": "Point", "coordinates": [-1.0496, 53.9862] }
+      }
+    ]
+  }
+  
