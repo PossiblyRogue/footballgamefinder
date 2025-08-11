@@ -2,11 +2,13 @@
   "name": "football-fixture-finder",
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://possiblyrogue.github.io/footballgamefinder/",
   "description": "A simple React app to find football fixtures by postcode, distance, and division",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist",
     "update-db": "node scripts/update-fixture-db.js"
   },
   "dependencies": {
